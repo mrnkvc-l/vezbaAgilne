@@ -1,0 +1,5 @@
+package usersService.model;
+
+public class Role {
+
+}
